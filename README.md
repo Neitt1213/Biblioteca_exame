@@ -158,4 +158,4 @@ O programa controla empréstimos de forma simples.
 O sistema pode ser expandido no futuro.
 O programa é estruturado para fácil manutenção.
 O sistema atende às especificações do trabalho.
-O programa realiza todas as operações propostas.
+O programa realiza todas as operações propostas. 
