@@ -8,13 +8,35 @@ historico_usuarios = {}
 disponibilidade_livros = {
     "O Senhor dos Anéis": True,
     "Introdução à Programação com Python": True,
-    "Estruturas de Dados e Algoritmos em Python": True
+    "Estruturas de Dados e Algoritmos em Python": True,
+    "1984": True,
+    "Dom Casmurro": True,
+    "A Revolução dos Bichos": True,
+    "Clean Code": True,
+    "Python Fluente": True,
+    "O Pequeno Príncipe": True,
+    "O Nome do Vento": True,
+    "A Guerra dos Tronos": True,
+    "Harry Potter e a Pedra Filosofal": True,
+    "O Código Da Vinci": True
 }
+
 livros_disponiveis = [
     ("O Senhor dos Anéis", "J.R.R. Tolkien", "978-8595084759"),
     ("Introdução à Programação com Python", "Nilo Ney Coutinho Menezes", "978-8575227183"),
-    ("Estruturas de Dados e Algoritmos em Python", "Michael T. Goodrich et al.", "978-8582604110")
+    ("Estruturas de Dados e Algoritmos em Python", "Michael T. Goodrich et al.", "978-8582604110"),
+    ("1984", "George Orwell", "978-8535914849"),
+    ("Dom Casmurro", "Machado de Assis", "978-8573262681"),
+    ("A Revolução dos Bichos", "George Orwell", "978-8535909555"),
+    ("Clean Code", "Robert C. Martin", "978-8576082675"),
+    ("Python Fluente", "Luciano Ramalho", "978-8575224625"),
+    ("O Pequeno Príncipe", "Antoine de Saint-Exupéry", "978-8522005230"),
+    ("O Nome do Vento", "Patrick Rothfuss", "978-8563560271"),
+    ("A Guerra dos Tronos", "George R. R. Martin", "978-8535914849"),
+    ("Harry Potter e a Pedra Filosofal", "J.K. Rowling", "978-8532511010"),
+    ("O Código Da Vinci", "Dan Brown", "978-8575422397")
 ]
+
 
 # tupla com regras de empréstimo adicionada para exame
 regra_emprestimo = (
